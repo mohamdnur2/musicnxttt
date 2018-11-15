@@ -400,4 +400,4 @@ if (message.content.startsWith(prefix + 'setplay')) {
 });
 
 
-client.login("NTEyMzI1MDA5NzU5NDA0MDgz.Ds3zgQ.jzoqnvZTl6y_d6grcDk9_ZN80VY"); 
+client.login("NTEyNTk4NDUyODU3ODY0MTk1.Ds7yoA.pyB6Kb3jJ2ZAzbIwJ9K-Uk04GOk"); 
